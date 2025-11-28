@@ -13,7 +13,7 @@ load_dotenv()
 
 DISCORD_TOKEN =os.getenv('DISCORD_TOKEN')
 CHANNEL_ID = 1443636093433155776  # Replace with your channel ID
-CHECK_INTERVAL = 5  # Check every 5 minutes
+CHECK_INTERVAL = 2400  # Check every 5 minutes
 LAUNCH_URL = 'https://superheavybooster.github.io/Booster-16-Space-Exploration-Technologies-Corporation/#launches'
 # Manual launch time configuration (IN UTC!)
 # Format: "November 28, 2025 13:00:00" in UTC
