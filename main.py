@@ -18,7 +18,7 @@ LAUNCH_URL = 'https://superheavybooster.github.io/Booster-16-Space-Exploration-T
 # Manual launch time configuration (IN UTC!)
 # Format: "November 28, 2025 13:00:00" in UTC
 MANUAL_LAUNCH_TIMES = {
-    "When Elephants Fly": "November 28, 2025 15:00:00"  # UTC time!
+    "When Elephants Fly": "November 29, 2025 13:00:00"  # UTC time!
 }
 
 # Bot setup
