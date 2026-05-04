@@ -570,3 +570,4 @@ async def help_command(ctx):
 # Run the bot
 if __name__ == "__main__":
     bot.run(DISCORD_TOKEN)
+    
